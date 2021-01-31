@@ -28,6 +28,6 @@
 * [第十一章 你在十年后还是同一个人吗？你能在死后依旧留存吗？](di-shi-yi-zhang-ni-zai-shi-nian-hou-hai-shi-tong-yi-ge-ren-ma-ni-neng-zai-si-hou-yi-jiu-liu-cun-ma.md)
 * [第十二章 有关于对错的客观真理吗？](di-shi-er-zhang-you-guan-yu-dui-cuo-de-ke-guan-zhen-li-ma.md)
 * [第十三章 什么东西真的重要呢？](di-shi-san-zhang-shen-me-dong-xi-zhen-de-zhong-yao-ne.md)
-* [第十四章 我们应该做什么？\(Ⅰ\)](di-shi-si-zhang-wo-men-ying-gai-zuo-shen-me.md)
-* [第十五章 我们应该做什么？\(Ⅱ\)](di-shi-wu-zhang-wo-men-ying-gai-zuo-shen-me.md)
+* [第十四章 我们应该做什么？（上）](di-shi-si-zhang-wo-men-ying-gai-zuo-shen-me.md)
+* [第十五章 我们应该做什么？（下\)](di-shi-wu-zhang-wo-men-ying-gai-zuo-shen-me.md)
 
