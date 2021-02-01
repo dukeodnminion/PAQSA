@@ -1,13 +1,7 @@
 # Table of contents
 
 * [这本书的内容以及来历（前言的一部分）](README.md)
-* [第一章 什么是哲学？](chapter-1/README.md)
-  * [1.哲学，无处不在](chapter-1/1.1.md)
-  * [2.什么是哲学问题？](chapter-1/1.2.md)
-  * [3.哲学方法](chapter-1/1.3.md)
-  * [4.哲学与科学](chapter-1/1.4.md)
-  * [5.哲学，关我屁事？](chapter-1/1.5.md)
-  * [讨论题](chapter-1/1.6.md)
+* [第一章 什么是哲学？](chapter-1.md)
 * [第二章 什么是论证？我们如何评价一个论证？](chapter-2/README.md)
   * [1.导言](chapter-2/2.1.md)
   * [2.前提与结论](chapter-2/2.2.md)
