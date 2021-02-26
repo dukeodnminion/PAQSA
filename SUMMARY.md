@@ -4,7 +4,7 @@
 * [第一章 什么是哲学？](chapter-1.md)
 * [第二章 什么是论证？我们如何评价一个论证？](chapter-2.md)
 * [第三章 上帝存在吗？](di-san-zhang-shang-di-cun-zai-ma.md)
-* [第四章 为何上帝令我们受苦？](di-si-zhang-wei-he-shang-di-ling-wo-men-shou-ku.md)
+* [第四章 上帝为何任我们受苦？](di-si-zhang-wei-he-shang-di-ling-wo-men-shou-ku.md)
 * [第五章 我们可以对某件事完全确定吗？](di-wu-zhang-wo-men-ke-yi-dui-mou-jian-shi-wan-quan-que-ding-ma.md)
 * [第六章 可以信任我们的感觉吗？](di-liu-zhang-ke-yi-xin-ren-wo-men-de-gan-jue-ma.md)
 * [第七章 太阳明天会升起吗？](di-qi-zhang-tai-yang-ming-tian-hui-sheng-qi-ma.md)
