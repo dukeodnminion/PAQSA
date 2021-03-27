@@ -9,7 +9,7 @@
 * [第六章 我们能信任感官吗？](di-liu-zhang-ke-yi-xin-ren-wo-men-de-gan-jue-ma.md)
 * [第七章 太阳明天会升起吗？](di-qi-zhang-tai-yang-ming-tian-hui-sheng-qi-ma.md)
 * [第八章 什么是知识？](di-ba-zhang-shen-me-shi-zhi-shi.md)
-* [第九章 我们有自由意志吗？](di-jiu-zhang-wo-men-you-zi-you-yi-zhi-ma.md)
+* [第九章 我们有自由意志吗?](di-jiu-zhang-wo-men-you-zi-you-yi-zhi-ma.md)
 * [第十章 你的心智与身体有何关系？](di-shi-zhang-ni-de-xin-zhi-yu-shen-ti-you-he-guan-xi.md)
 * [第十一章 你在十年后还是同一个人吗？你能在死后依旧留存吗？](di-shi-yi-zhang-ni-zai-shi-nian-hou-hai-shi-tong-yi-ge-ren-ma-ni-neng-zai-si-hou-yi-jiu-liu-cun-ma.md)
 * [第十二章 有关于对错的客观真理吗？](di-shi-er-zhang-you-guan-yu-dui-cuo-de-ke-guan-zhen-li-ma.md)
