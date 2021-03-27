@@ -328,7 +328,10 @@
 
 ## 下一步看什么？
 
-· 心灵哲学有很多教科书，我们最喜欢的是如下三本： Andy Clark - Mindware: An Introduction to the Philosophy of Cognitive Science Paul Churchland - 物質與意識:當代心靈哲學導讀 \[这个是台版\] 约翰·海尔 - 当代心灵哲学导论 \[我觉得翻译挺差的\]
+· 心灵哲学有很多教科书，我们最喜欢的是如下三本：   
+Andy Clark - Mindware: An Introduction to the Philosophy of Cognitive Science   
+Paul Churchland - 物質與意識:當代心靈哲學導讀 \[这个是台版\]   
+约翰·海尔 - 当代心灵哲学导论 \[我觉得翻译挺差的\]
 
 · 笛卡尔在《第一哲学沉思集》的第五、第六沉思谈到了与心灵哲学相关的内容。
 
@@ -338,7 +341,9 @@
 
 · 哲学行为主义的代表作是吉尔伯特·赖尔的作品《心的概念》。当然，他在书中表达的行为主义要比我们在第3节中说的更为复杂微妙，故而有所不同。
 
-· 心脑同一论的两篇代表作： U. T. Place, “Is Consciousness a Brain Process?” Herbert Feigl, The “Mental” and the “Physical”: The Essay and a Postscript
+· 心脑同一论的两篇代表作：   
+U. T. Place, “Is Consciousness a Brain Process?”   
+Herbert Feigl, The “Mental” and the “Physical”: The Essay and a Postscript
 
 · 尽管上面这两篇论文有很重要的历史意义，但都很难读。对心脑同一论更加浅显易懂的讨论可见 Internet Encyclopedia of Philosophy的词条"Identity Theory"，以及Peter Carruther - The Nature of the Mind: An Introduction的第五章"The Case for Physicalism".
 
@@ -348,7 +353,10 @@
 
 · Thomas Nagel, “What Is It Like to Be a Bat?”这篇论文是心灵哲学领域最为著名的论文之一，其著名也不止因为它起了个引人注目的标题。
 
-· 一些哲学家相信，只要关注神经科学的进展，我们就能在心灵哲学上取得进步。其中的领军人物是帕特里夏·丘奇兰德。她的两部著作非常著名： Neurophilosophy: Toward a Unified Science of the Mind-Brain 以及 Brain-Wise: Studies in Neurophilosophy. \[是夫妻档。不过这个书好像还是没中文。\]
+· 一些哲学家相信，只要关注神经科学的进展，我们就能在心灵哲学上取得进步。其中的领军人物是帕特里夏·丘奇兰德。她的两部著作非常著名：   
+Neurophilosophy: Toward a Unified Science of the Mind-Brain   
+以及 Brain-Wise: Studies in Neurophilosophy.   
+\[是夫妻档。不过这个书好像还是没中文。\]
 
 · 许多科幻电影都探究了如何制造一个有意识物体的命题。雷德利·斯科特的《银翼杀手》是其中的佼佼者。其中主角的任务是找到“复制品”，也就是合成人类，并让他们“退役”。尽量看导演剪辑版，并且注意影片里引用笛卡尔的地方。这部电影是根据菲利普·K·迪克的小说，《仿生人会梦见电子羊吗?》所改编的。
 
