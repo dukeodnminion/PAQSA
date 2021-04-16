@@ -15,5 +15,5 @@
 * [第十二章 有关于对错的客观真理吗？](di-shi-er-zhang-you-guan-yu-dui-cuo-de-ke-guan-zhen-li-ma.md)
 * [第十三章 什么东西真的重要呢？](di-shi-san-zhang-shen-me-dong-xi-zhen-de-zhong-yao-ne.md)
 * [第十四章 我们应该做什么？（上）](di-shi-si-zhang-wo-men-ying-gai-zuo-shen-me.md)
-* [第十五章 我们应该做什么？（下\)](di-shi-wu-zhang-wo-men-ying-gai-zuo-shen-me.md)
+* [第十五章 我们应该做什么？（下）](di-shi-wu-zhang-wo-men-ying-gai-zuo-shen-me.md)
 
